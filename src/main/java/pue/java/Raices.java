@@ -17,7 +17,7 @@ public class Raices {
     //obtenerRaiz(): imprime única raíz, que será cuando solo tenga una solución posible.
     //obtenerRaices(): imprime las 2 posibles soluciones
     //calcular(): mostrara por consola las posibles soluciones que tiene nuestra ecuación, en caso de no existir solución, mostrarlo también.
-    //Formula ecuación 2º grado: (-b±√((b^2)-(4*a*c)))/(2*a)
+    //Formula ecuación 2º grado: (-b±√((b^2)-(4*a*c)))/(2*a);
 
 
     public double getDiscriminante(){

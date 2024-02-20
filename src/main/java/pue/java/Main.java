@@ -14,7 +14,5 @@ public class Main {
         System.out.println("r3");
         Soluciones s3 = r3.calcular();
         System.out.println(s3);
-        
-
     }
 }
